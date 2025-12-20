@@ -48,6 +48,5 @@
 
 <h2> Conclusion</h2>
 <p>The project concludes by summarizing the findings and highlighting potential areas for further investigation</p>
-<br>
 <h3>This project demonstrates Python-based data cleaning and EDA with Pandas and NumPy, revealing key insights into the laptop market</h3>
 
